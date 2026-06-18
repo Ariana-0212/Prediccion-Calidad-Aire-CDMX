@@ -44,7 +44,7 @@ Video/
 Consultar archivo:
 
 ```
-Video/enlace_video.txt
+https://youtu.be/FTMkLxTEBLA
 ```
 
 ## Autor
