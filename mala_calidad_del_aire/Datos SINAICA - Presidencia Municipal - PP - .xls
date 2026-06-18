@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"><ss:Worksheet ss:Name="Sheet1">
+<ss:Table>
+
+<ss:Row><ss:Cell><ss:Data ss:Type="String">Parámetro</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Fecha</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">valor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Unidad</ss:Data></ss:Cell>
+</ss:Row><ss:Row></ss:Row>
+<ss:Row><ss:Cell><ss:Data ss:Type="String">PP</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2025-12-08</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.013</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">mm</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row><ss:Cell><ss:Data ss:Type="String">PP</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2025-12-08</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.013</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">mm</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row><ss:Cell><ss:Data ss:Type="String">PP</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2025-12-08</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.001</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">mm</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row><ss:Cell><ss:Data ss:Type="String">PP</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2025-12-08</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.015</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">mm</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row><ss:Cell><ss:Data ss:Type="String">PP</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2025-12-08</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.008</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">mm</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row><ss:Cell><ss:Data ss:Type="String">PP</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2025-12-09</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.005</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">mm</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row><ss:Cell><ss:Data ss:Type="String">PP</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2025-12-09</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.003</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">mm</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row><ss:Cell><ss:Data ss:Type="String">PP</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2025-12-10</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.001</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">mm</ss:Data></ss:Cell>
+</ss:Row>
+</ss:Table>
+</ss:Worksheet>
+</ss:Workbook>
